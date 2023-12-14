@@ -1,0 +1,2 @@
+class FooUser < User
+end
